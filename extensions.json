@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "vscodevim.vim",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "christian-kohler.path-intellisense",
+    "github.copilot",
+    "github.copilot-chat",
+    "rose-pine.rose-pine",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "rust-lang.rust-analyzer",
+    "vadimcn.vscode-lldb",
+    "tamasfe.even-better-toml",
+    "serayuzgur.crates",
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools",
+    "redhat.java",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "usernamehw.errorlens",
+    "gruntfuggly.todo-tree",
+    "ms-vsliveshare.vsliveshare"
+  ]
+} 
