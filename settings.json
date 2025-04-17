@@ -27,7 +27,8 @@
   "editor.suggest.showStatusBar": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
-    "source.organizeImports": true
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true
   },
   "editor.semanticHighlighting.enabled": true,
   "workbench.colorTheme": "Rose Pine",
@@ -119,5 +120,9 @@
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "angular.enable-strict-mode-prompt": true,
+  "angular.suggest.includeCompletionsWithSnippetText": true,
+  "angular.suggest.includeAutomaticOptionalChainCompletions": true
 } 
