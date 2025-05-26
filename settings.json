@@ -107,17 +107,17 @@
     "explorer.fileNesting.enabled": true,
 
     // Window and workbench settings
-    "workbench.colorTheme": "Rose Pine",
+    "workbench.colorTheme": "Rose Pine Alt",
     "workbench.iconTheme": "vs-seti",
     "workbench.editor.enablePreview": false,
     "workbench.editor.highlightModifiedTabs": true,
     "window.zoomLevel": 0,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.sideBar.location": "left",
-    "workbench.preferredDarkColorTheme": "Rose Pine",
-    "workbench.preferredLightColorTheme": "Rose Pine",
+    "workbench.preferredDarkColorTheme": "Rose Pine Alt",
+    "workbench.preferredLightColorTheme": "Rose Pine Alt",
     "workbench.colorCustomizations": {
-        "[Rose Pine]": {
+        "[Rose Pine Alt]": {
             "editor.background": "#191724",
             "editor.foreground": "#e0def4",
             "editor.lineHighlightBackground": "#1f1d2e",
@@ -128,7 +128,15 @@
             "editorLineNumber.activeForeground": "#e0def4",
             "editorGutter.modifiedBackground": "#ebbcba",
             "editorGutter.addedBackground": "#9ccfd8",
-            "editorGutter.deletedBackground": "#eb6f92"
+            "editorGutter.deletedBackground": "#eb6f92",
+            "activityBar.background": "#191724",
+            "activityBar.foreground": "#e0def4",
+            "sideBar.background": "#191724",
+            "sideBar.foreground": "#e0def4",
+            "statusBar.background": "#191724",
+            "statusBar.foreground": "#e0def4",
+            "titleBar.activeBackground": "#191724",
+            "titleBar.activeForeground": "#e0def4"
         }
     },
 
@@ -195,4 +203,4 @@
         "--profile", "black",
         "--line-length", "100"
     ]
-} 
+}
