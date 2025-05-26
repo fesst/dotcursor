@@ -6,7 +6,8 @@
 *~
 .DS_Store
 Thumbs.db
-extensions
+extensions/
+extensions/**
 
 # Build and dist directories (excluding .cursor/dist)
 build/
